@@ -6,3 +6,4 @@ Author - G.M. Noor-Ul Islam (Labib)
 <p>This is a new feature<p>
 <br>
 <p>Please save Sheikh Hasina<p>
+<p>Now we will solve merge conflicts<p>
