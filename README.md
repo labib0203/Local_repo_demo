@@ -5,5 +5,5 @@ Author - G.M. Noor-Ul Islam (Labib)
 <br>
 <p>This is a new feature<p>
 <br>
-<p>Please save Sheikh Hasina<p>
+<p>Please save Bangladesh Awami League<p>
 <p>Now we will solve merge conflicts<p>
